@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --light:#E3F7F6;
+    --Dark:#14979B;
+}
+.left-header-image img{
+    width: 100px;
+    height: 70px;
+    padding-left: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.Middle ul{
+    list-style: none;
+    display: flex;
+    gap: 60px;
+}
+.btn1 button{
+    margin-right: 30px;
+    padding: 7px 20px;
+    color: white;
+    background-color: #14979B;
+    border: none;
+    font-size: 13px;
+}
+.first-right img{
+    width: 300px;
+    height: 300px;
+}
+.first-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#E3F7F6;
+    
+}
+.first-left {
+    max-width: 50%;
+}
+.first-left span{
+    color: #14979B;
+}
+.first-left p{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.first-left h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 5px;
+    font-size: 30px;
+}
+.first-left h2{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn2{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+.ri-play-circle-fill{
+    font-size: 25px;
+}
+.btn2 button{
+    padding: 7px 20px;
+    background-color: #14979B;
+    color: white;
+    border: none;
+}
+.real-estate-world{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+}
+.second-page-image img{
+    width: 300px;
+    height: 250px;
+    border-radius: 0px 35px 35px 35px;
+}
+.world{
+    max-width: 50%;
+}
+.world h3{
+    color: #14979B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.world h1{
+    max-width: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+.world p{
+    text-align: justify;
+}
+.btn3 button{
+    background-color: #14979B;
+    color: white;
+    padding: 7px 20px;
+    border: none;
+    margin-top: 5px;
+}
+.nestbes-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+    margin-top: 100px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    gap: 30px;
+}
+.nestbes{
+    max-width: 25%;
+}
+.nestbes h3{
+    color: #14979B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nestbes h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn4 button{
+    background-color: #14979B;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+.btn5 button{
+    padding: 7px 20px;
+}
+.btn6 button{
+    padding: 7px 20px;
+}
